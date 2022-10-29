@@ -3,10 +3,18 @@ body {
   margin: 20px;
   /* padding: 8px 4px 12px 4px; */
   color: #000000;
+/*  background: #ffe0ad;*/
+/*  background: rgb(238,205,168);*/
+/*  background: #ddd2bd;*/
+  /* half parchment (a little too bright) */
+/*  background: #e0dac3;*/
+  /* parchment (a little too green*/
   background: #d0c8b0;
 /*  font-family: Trebuchet MS;*/
   font-family: Arial, Times New Roman;
   font-size: 100%;
+  /* background: #000000 url(images/space.gif); */
+  /* input {-moz-border-radius:10px; -webkit-border-radius:10px; */
 }
 /* Make table borders visible for debugging.
 table {
@@ -28,9 +36,13 @@ h6 { color: #006600; font-size:1.0em; margin-top: 0; margin-bottom: 0; font-weig
 }
 
 .highlight { color: #006600;}
+
 .highbold { color: #006600; font-weight: bold;}
+
 .divider { background-color: #3366ff; }
+
 a { text-decoration: none; }
+
 a:hover { color:red }
 
 /* drop-down list support */
