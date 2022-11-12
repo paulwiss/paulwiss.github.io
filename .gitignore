@@ -1,3 +1,7 @@
+# ignore local scripts
+publish.sh
+ssi.pl
+
 # ignore Vim swap files
 .*.swp
 
